@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% load static i18n %}
+{% block css %}
+    {{ block.super }}
+    <link href="{% static 'css/acp_calendar.css' %}" rel="stylesheet">
+{% endblock css %}
+{% block content %}
+    <h2>Fiscal Year Calendar {{ fiscal_year }}</h2>
+    {% if errors %}
+        <div>
+            <h3>Error</h3>
+            <div>{{ errors }}</div>
+        </div>
+
+    {% else %}
+
+        <div class="row">
+            {% for month in months|slice:":3" %}
+                {% include "acp_calendar/snippets/month_snippet.html" %}
+            {% endfor %}
+        </div>
+
+        <div class="row">
+            {% for month in months|slice:"3:6" %}
+                {% include "acp_calendar/snippets/month_snippet.html" %}
+            {% endfor %}
+        </div>
+        <div class="row">
+            {% for month in months|slice:"6:9" %}
+                 {% include "acp_calendar/snippets/month_snippet.html" %}
+            {% endfor %}
+        </div>
+        <div class="row">
+            {% for month in months|slice:"9:12" %}
+                 {% include "acp_calendar/snippets/month_snippet.html" %}
+            {% endfor %}
+        </div>
+        <div class="row">
+            <div>Remaining working days: {{ remaining_working_days_in_fiscal_year }} ({{ remaining_working_days_percentage|floatformat:2 }}% remaining)</div>
+            <div>Working days: {{ working_days_in_fiscal_year }}</div>
+        </div>
+    {% endif %}
+    <div class="version">Version: {{ version }}</div>
+{% endblock content %}

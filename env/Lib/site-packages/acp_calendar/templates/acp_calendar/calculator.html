@@ -1,0 +1,70 @@
+{% extends "base.html" %}
+{% load static i18n %}
+{% block css %}
+  {{ block.super }}
+  <link href="{% static 'css/acp_calendar.css' %}" rel="stylesheet"/>
+{% endblock css %}
+{% block content %}
+<h2>Calculator</h2>
+<div>
+  Enter date in YYYY-MM-DD format. For example for january 5th 2016 type 2016-01-05.
+</div>
+
+<form action="" method="post">
+  {% csrf_token %}
+  <div class="row">
+    <div class="col-md-6">
+      <div class="form-group {%if form.start_date.errors %}has-danger{%endif%}">
+        <label for="{{ form.start_date.id_for_label }}" class="control-label">{{ form.start_date.label }}</label>
+        <input
+          type="text" value="{{ form.start_date.value }}" title=""
+          placeholder="{{ form.start_date.label }}" name="start_date"
+          id="{{ form.start_date.id_for_label }}" class="form-control datepicker"/>
+      </div>
+      {% for error in form.start_date.errors %}
+          <p class="bg-danger">{{ error }} </p>
+        {% endfor %}
+    </div>
+     </div>
+  <div class="row">
+    <div class="col-md-6">
+      <div class="form-group {%if form.end_date.errors %}has-danger{%endif%}">
+
+        <label for="{{ form.end_date.id_for_label }}" class="control-label">{{ form.end_date.label }}</label>
+        <input
+          type="text" value="{{ form.end_date.value }}" title=""
+          placeholder="{{ form.end_date.label }}" name="end_date"
+          id="{{ form.end_date.id_for_label }}" class="form-control datepicker"/>
+      </div>
+      {% for error in form.end_date.errors %}
+          <p class="bg-danger">{{ error }} </p>
+        {% endfor %}
+    </div>
+    </div>
+
+    <input class="btn btn-primary" role="button" type="submit" value="{% trans 'Calculate' %}"/>
+
+</form>
+
+{% if  working_days%}
+     <h3>
+{{ working_days }} working days
+    </h3>
+{% endif %}
+
+<div class="version">Version: {{ version }}</div>
+{% endblock content %}
+{% block javascript %}
+{{ block.super }}
+    <script>
+        $.datepicker.setDefaults({
+            showOn: "both",
+        });
+        $.datepicker.setDefaults($.datepicker.regional["{{ LANGUAGE_CODE }}"]);
+        $(".datepicker").datepicker({
+            dateFormat: "yy-mm-dd",
+            altFormat: "yy-mm-dd"
+        });
+    </script>
+{% endblock javascript %}
+

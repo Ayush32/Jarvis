@@ -1,0 +1,578 @@
+[
+  {
+    "date": "2006-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2006-01-09",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2006-02-28",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2006-04-14",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2006-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2006-11-03",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2006-11-06",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2006-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2006-11-28",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2006-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2006-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2007-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2007-01-09",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2007-02-20",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2007-04-06",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2007-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2007-11-02",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2007-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2007-11-09",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2007-11-28",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2007-12-07",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2007-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2008-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2008-01-07",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2008-02-05",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2008-03-21",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2008-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2008-11-03",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2008-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2008-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2008-12-01",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2008-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2008-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2009-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2009-01-12",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2009-02-24",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2009-04-10",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2009-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2009-11-03",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2009-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2009-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2009-11-29",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2009-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2009-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2010-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2010-01-08",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2010-02-16",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2010-04-02",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2010-04-30",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2010-11-03",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2010-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2010-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2010-11-27",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2010-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2010-12-24",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2010-12-31",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2011-01-10",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2011-03-08",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2011-04-22",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2011-05-02",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2011-11-02",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2011-11-04",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2011-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2011-11-28",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2011-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2011-12-26",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2012-01-02",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2012-01-09",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2012-02-21",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2012-03-06",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2012-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2012-11-02",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2012-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2012-11-09",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2012-11-26",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2012-12-07",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2012-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2013-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2013-01-07",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2013-02-12",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2013-03-29",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2013-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2013-11-04",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2013-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2013-11-11",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2013-12-02",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2013-12-09",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2013-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2014-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2014-01-09",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2014-03-04",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2014-04-18",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2014-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2014-07-01",
+    "holiday_type": "toma_presidencial"
+  },
+  {
+    "date": "2014-11-03",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2014-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2014-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2014-12-01",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2014-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2014-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2015-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2015-01-09",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2015-02-17",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2015-04-03",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2015-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2015-11-03",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2015-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2015-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2015-11-27",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2015-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2015-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2016-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2016-01-08",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2016-02-09",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2016-03-25",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2016-05-02",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2016-11-03",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2016-11-04",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2016-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2016-11-28",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2016-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2016-12-26",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2017-01-02",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2017-01-09",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2017-02-28",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2017-04-14",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2017-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2017-11-03",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2017-11-06",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2017-11-10",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2017-11-27",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2017-12-08",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2017-12-25",
+    "holiday_type": "navidad"
+  },
+  {
+    "date": "2018-01-01",
+    "holiday_type": "año_nuevo"
+  },
+  {
+    "date": "2018-01-09",
+    "holiday_type": "mártires"
+  },
+  {
+    "date": "2018-02-13",
+    "holiday_type": "martes_carnaval"
+  },
+  {
+    "date": "2018-03-30",
+    "holiday_type": "viernes_santo"
+  },
+  {
+    "date": "2018-05-01",
+    "holiday_type": "día_del_trabajo"
+  },
+  {
+    "date": "2018-11-02",
+    "holiday_type": "separación_colombia"
+  },
+  {
+    "date": "2018-11-05",
+    "holiday_type": "colón"
+  },
+  {
+    "date": "2018-11-09",
+    "holiday_type": "grito_independencia"
+  },
+  {
+    "date": "2018-11-26",
+    "holiday_type": "independencia_españa"
+  },
+  {
+    "date": "2018-12-07",
+    "holiday_type": "día_de_la_madre"
+  },
+  {
+    "date": "2018-12-25",
+    "holiday_type": "navidad"
+  }
+]

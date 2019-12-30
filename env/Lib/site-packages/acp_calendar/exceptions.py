@@ -1,0 +1,2 @@
+class ACPCalendarException(Exception):
+    pass

@@ -1,0 +1,22 @@
+.version {
+  font-size: smaller;
+}
+
+.month-title {
+  font-size: larger;
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+  border-radius: 10px;
+}
+
+.month-data {
+  text-align: center;
+  padding: 5px 5px 5px 5px;
+}
+
+.month {
+  border-style: solid;
+  border-width: 1px;
+  padding: 0px;
+  border-radius: 10px;
+}
